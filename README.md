@@ -1,8 +1,4 @@
-I built a full stack dex. For building this first I [decoded](https://github.com/harendra-shakya/uniswap-unwrapped) uniswap v2 code line by line to understand everything and then built my minimum viable dex. For this project I also learned typescript.
-
-[Live Server](https://dex-pink-two.vercel.app/)
-
-[Demo Video](https://www.linkedin.com/posts/harendra-shakya_web3-blockchain-cryptocurrency-activity-6965650666065199104-Hgq4?utm_source=linkedin_share&utm_medium=member_desktop_web)
+# Dex
 
 ## What does this protocol do?
 
