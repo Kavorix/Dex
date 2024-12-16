@@ -1,14 +1,7 @@
-# Dex
+# Glow Swap
 
-## What does this protocol do?
+An efficient and user-friendly DEX natively built on B² network.
 
-- Basically there are two types of users liquidity providers and traders
-
-- Liquidity providers provide liquidity to the pool and in return they get third token that represents the partial ownership of the pool called liquidity token.
-
-- Traders can swap tokens means then can provide a token and receive another token. The exchange rate is determined by the relative number of tokens in the pool e.g. pool has 8 USDC & 10 DAI then the value of USDC will be high. The pool takes a small percent as a reward for the liquidity pool.
-
-- When liquidity providers want their assets back they can burn the liquidity token and receive back their assets, including the share of reward.
 
 ## Contracts
 
